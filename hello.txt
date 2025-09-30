@@ -1,2 +1,1 @@
-Hello, Git!
-This is Practical 5.
+Hello file for removal
